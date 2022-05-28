@@ -1,0 +1,13 @@
+{
+    "name": "shortcut",
+    "version": "0.2.0",
+    "description": "Создание, изменение и удаление ярлычка",
+    "main": "shortcut.js",
+    "author": "ViPiC",
+    "license": "GPL-3.0",
+    "dependencies": {
+        "app": "git+file://repository/script/app#semver:0.3.x",
+        "app.lib": "git+file://repository/script/app.lib#semver:0.x",
+        "app.wsh": "git+file://repository/script/app.wsh#semver:0.x"
+    }
+}
